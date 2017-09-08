@@ -1,0 +1,1 @@
+Block all keyboard keys

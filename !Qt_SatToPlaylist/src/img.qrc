@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/mpc.png</file>
+        <file>img/vlc.png</file>
+    </qresource>
+</RCC>

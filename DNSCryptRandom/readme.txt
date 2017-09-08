@@ -1,0 +1,1 @@
+Choose DNSCrypt server randomly

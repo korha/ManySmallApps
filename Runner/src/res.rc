@@ -1,0 +1,27 @@
+IDI_ICON1 ICON DISCARDABLE "icon.ico"
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x40004
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904E4"
+	{
+		VALUE "CompanyName", "UserPrograms"
+		VALUE "FileDescription", "Runner"
+		VALUE "FileVersion", "1.0"
+		VALUE "InternalName", "Runner"
+		VALUE "LegalCopyright", "UserPrograms"
+		VALUE "OriginalFilename", "Runner.exe"
+		VALUE "ProductName", "UserPrograms Runner"
+		VALUE "ProductVersion", "1.0"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409, 0x04E4  
+}
+}

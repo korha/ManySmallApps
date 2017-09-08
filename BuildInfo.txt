@@ -1,0 +1,6 @@
+mingw-x86_64-6.3.0-release-win32-seh-rt_v5-rev1
+mingw-i686-6.3.0-release-win32-dwarf-rt_v5-rev1
+-c -pipe -fno-keep-inline-dllexport -Wpedantic -Wzero-as-null-pointer-constant -O2 -frtti -Wall -Wextra -fexceptions -mthreads -DUNICODE -DNDEBUG
+
+q-5.8.0:
+-debug-and-release -platform win32-g++ -opensource -qt-zlib -qt-libjpeg -qt-libpng -qt-freetype -qt-pcre -qt-harfbuzz -opengl desktop -make libs
